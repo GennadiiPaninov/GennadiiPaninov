@@ -1,11 +1,8 @@
 ## Hi there 👋
 <div id="header" align="center">
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-   <iframe src="https://giphy.com/embed/VerV92BfJIgkWpOBFJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- </div>
-  <p>
-    <a href="https://giphy.com/gifs/metgconstruction-VerV92BfJIgkWpOBFJ">via GIPHY</a></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJvcDBoNmtzcXNzc2g3YXJ2Ynk5dnJxbTV3YTR3dHV3dzQzY3pwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VerV92BfJIgkWpOBFJ/giphy.gif" width="100"/>
 </div>
+
 <!--
 **GennadiiPaninov/GennadiiPaninov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
