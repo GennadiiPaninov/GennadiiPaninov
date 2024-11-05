@@ -19,7 +19,8 @@
 <p>I focus on creating efficient and clean code that is easy to maintain and scale.
 </p>
 <p>My goal is to develop high-quality, adaptive, search engine optimized, intuitive user interfaces that ensure customer satisfaction and help businesses succeed, attract and retain customers.</p>
-	
+<p>More about me </p>	
+<a  href="https://gennadiipaninov.github.io/Cardfolio/">  <img  src="https://img.shields.io/badge/AboutMe-2CA5E0?style=for-the-badge&logo=MySite&logoColor=white"  alt="Telegram"></a>
 
 
 <h2/>
