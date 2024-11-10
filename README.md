@@ -29,5 +29,5 @@
 
 [![codewars](https://www.codewars.com/users/Gennadio/badges/large)](https://www.codewars.com/users/username)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GennadiiPaninov)](https://git.io/streak-stats)
+
 
