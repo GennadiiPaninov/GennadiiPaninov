@@ -16,7 +16,7 @@
 </p>
 </div>
 <h2>About me</h2>
-<p>Front-end developer with 1.5+ years of hands-on development experience. My core technology stack includes TypeScript, JavaScript, Read, NExt.JS, React Netive, Redux and Redux Toolkit, MobX, GraphQl, WebSocket, Vite, Docker, HTML, CSS(Sass), ThreeJS. I am constantly improving my skills in these areas and strive to keep up to date with the latest trends in web application development. </p>
+<p>Front-end developer with 2+ years of hands-on development experience. My core technology stack includes TypeScript, JavaScript, Read, NExt.JS, React Netive, Redux and Redux Toolkit, MobX, GraphQl, WebSocket, Vite, Docker, HTML, CSS(Sass), ThreeJS. I am constantly improving my skills in these areas and strive to keep up to date with the latest trends in web application development. </p>
 <p>I actively explore other related libraries to expand my skills and uncover new opportunities in development.</p>
 <p>I focus on creating efficient and clean code that is easy to maintain and scale.
 </p>
